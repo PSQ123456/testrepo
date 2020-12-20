@@ -4,7 +4,7 @@
 github图片加载不出来，将下面的代码添加到 win 的
 `C:\Windows\System32\drivers\etc\hosts`中
 
-`
+```
 # GitHub Start 
 192.30.253.112 Build software better, together 
 192.30.253.119 gist.github.com
@@ -22,5 +22,5 @@ github图片加载不出来，将下面的代码添加到 win 的
 151.101.184.133 avatars6.githubusercontent.com
 151.101.184.133 avatars7.githubusercontent.com
 151.101.184.133 Build software better, together
-`
+```
 
